@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1531440892 source:d:\lago.damian1f_final\deposito.c
+	"deposito.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ArrayList.h"
+
+1531440892 d:\lago.damian1f_final\deposito.h
+	"ArrayList.h"
+
+1530657376 d:\lago.damian1f_final\arraylist.h
+
+1531438207 source:d:\lago.damian1f_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"deposito.h"
+	"ArrayList.h"
+	"Parser.h"
+
+1531433595 d:\lago.damian1f_final\parser.h
+	"ArrayList.h"
+
+1531440272 source:d:\lago.damian1f_final\parser.c
+	"ArrayList.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Parser.h"
+	"deposito.h"
+
+1530660562 source:d:\lago.damian1f_final\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
